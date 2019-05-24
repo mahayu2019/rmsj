@@ -1,2 +1,8 @@
 参考解答
 https://blog.csdn.net/weixin_39449570/article/category/7266416
+
+官方参考答案
+https://ehmatthes.github.io/pcc/solutions/README.html
+
+勘误:
+https://nostarch.com/pythoncrashcourse/
